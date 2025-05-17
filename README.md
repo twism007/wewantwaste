@@ -1,4 +1,4 @@
-WeWantWaste Demo
+#WeWantWaste Demo
 
 This project is a demo of a skip-hire interface built with React and Tailwind CSS. It features a responsive multi-step progress bar (TopBar) and a dynamic product selection component (Product) that fetches real-time skip data from an API.
 
